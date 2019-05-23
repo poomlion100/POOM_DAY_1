@@ -19,4 +19,4 @@
 <div align="center" style="border: medium;">
 	<img src="${pageContext.request.contextPath}\Image\wow.png" alt="WOW!" width="256" height="360" border="5" 	style="border-color: lime;" >
 </div>
-
+<hr>
